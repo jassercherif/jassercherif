@@ -91,6 +91,7 @@ Metadata API
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,neo4j,docker,git&theme=dark" />
 
 </div>
+---
 ### GitHub Activity
 
 <div align="center">
