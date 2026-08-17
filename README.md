@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Builder%20%2F%20Engineer&fontAlignY=45&animation=fadeIn&fontColor=2D3669&desc=Based%20in%20Tunisia&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=AI%20Software%20Engineer&fontAlignY=45&animation=fadeIn&fontColor=2D3669&desc=Based%20in%20Tunisia&descAlignY=70" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Jasser Cherif 贾瑟尔·谢里夫 </h2>
+<h2 align="center">Hi 👋, I'm Jasser Cherif</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasser-cherif-a74037255/">
