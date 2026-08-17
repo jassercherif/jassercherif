@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm Jasser Cherif</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5547E6&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;LangGraph+%7C+RAG+%7C+Agentic+AI+Systems;Building+AgenticDoc+for+Salesforce;Open+to+AI+Engineering+roles+in+Europe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5547E6&center=true&vCenter=true&width=600&lines=LangGraph+%7C+RAG+%7C+Agentic+AI+Systems;Building+AgenticDoc+for+Salesforce;Open+to+AI+Engineering+roles+in+Europe" alt="Typing SVG" />
 </p>
 
 <p align="center">
