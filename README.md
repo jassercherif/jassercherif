@@ -5,6 +5,10 @@
 <h2 align="center">Hi 👋, I'm Jasser Cherif</h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5547E6&center=true&vCenter=true&width=600&lines=AI+Software+Engineer+%40+Talan+Tunisie;LangGraph+%7C+RAG+%7C+Agentic+AI+Systems;Building+AgenticDoc+for+Salesforce;Open+to+AI+Engineering+roles+in+Europe" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jasser-cherif-a74037255/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
@@ -14,7 +18,15 @@
   </a>
 </p>
 
-[![Personal Website](https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jassercherif.github.io/MyPortfolio/)
+<p align="center">
+  <a href="https://jassercherif.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Website-Personal-5547E6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/jassercherif?label=Followers&style=for-the-badge&color=5547E6&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=jassercherif&style=for-the-badge&color=5547E6&label=Profile+Views" />
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🛠️ Tech Stack
 
@@ -69,21 +81,27 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-### GitHub Activity
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jassercherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&icon_color=5547E6&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassercherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&text_color=c9d1d9" />
+</p>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuperiormonLBJ)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jassercherif&theme=tokyonight&hide_border=true&background=0d1117&ring=5547E6&fire=5547E6&currStreakLabel=5547E6)](https://git.io/streak-stats)
 
 </div>
 
-<br/>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📈 Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jassercherif&theme=xcode&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jassercherif&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5547E6&line=5547E6&point=c9d1d9&area=true&area_color=1c2a3a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=jassercherif&color=brightgreen&style=plastic&label=profile+views)
-![GitHub followers](https://img.shields.io/github/followers/jassercherif?label=Followers&style=social)
