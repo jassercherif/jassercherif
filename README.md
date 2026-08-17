@@ -86,3 +86,4 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=jassercherif&color=brightgreen&style=plastic&label=profile+views)
+![GitHub followers](https://img.shields.io/github/followers/jassercherif?label=Followers&style=social)
