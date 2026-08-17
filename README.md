@@ -86,8 +86,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jassercherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&icon_color=5547E6&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassercherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jassercherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&icon_color=5547E6&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jassercherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5547E6&text_color=c9d1d9" />
 </p>
 
 <div align="center">
