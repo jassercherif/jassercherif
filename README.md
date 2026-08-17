@@ -16,53 +16,81 @@
 
 [![Personal Website](https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jassercherif.github.io/MyPortfolio/)
 
----
+## 🧠 AI Systems Stack
 
-### Tech Stack
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AGENTS
+
+**LangGraph**  
+LangChain  
+MCP  
+LLM Workflows
+
+</td>
+<td width="33%" align="center">
+
+### 🔎 RETRIEVAL
+
+**Hybrid RAG**  
+GraphRAG  
+Vector Search  
+Embeddings
+
+</td>
+<td width="33%" align="center">
+
+### 🕸️ KNOWLEDGE
+
+**Neo4j**  
+Knowledge Graphs  
+Relationships  
+Structured Data
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ BACKEND
+
+**Python**  
+FastAPI  
+Pydantic  
+REST APIs
+
+</td>
+<td width="33%" align="center">
+
+### 🗄️ DATA
+
+**PostgreSQL**  
+pgvector  
+Weaviate  
+SQL
+
+</td>
+<td width="33%" align="center">
+
+### 🏢 ENTERPRISE AI
+
+**Salesforce**  
+Apex  
+Agentforce  
+Metadata API
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**AI Engineering · Agentic AI · RAG**
-
-[![AI Skills](https://skillicons.dev/icons?i=python,fastapi&theme=dark)](https://skillicons.dev)
-
-`LangChain` · `LangGraph` · `RAG` · `GraphRAG` · `Hybrid RAG` · `LLMs` · `MCP` · `OpenAI` · `Pydantic`
-
-<br/>
-
-**Frontend · Backend**
-
-[![Web Skills](https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,nodejs&theme=dark)](https://skillicons.dev)
-
-`REST APIs` · `React` · `Vite` · `Agentic Workflows` · `Microservices`
-
-<br/>
-
-**Data · Knowledge Graph · Vector Search**
-
-[![Data Skills](https://skillicons.dev/icons?i=postgres,neo4j,mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
-
-`pgvector` · `Weaviate` · `Vector Search` · `Knowledge Graphs` · `Hybrid Retrieval`
-
-<br/>
-
-**Salesforce · Enterprise AI**
-
-[![Salesforce](https://skillicons.dev/icons?i=salesforce&theme=dark)](https://skillicons.dev)
-
-`Apex` · `Salesforce Metadata API` · `Agentforce` · `Salesforce MCP`
-
-<br/>
-
-**Cloud · DevOps · Engineering**
-
-[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,linux,azure&theme=dark)](https://skillicons.dev)
-
-`Docker Compose` · `CI/CD` · `REST` · `GitHub Actions`
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,postgres,neo4j,docker,git&theme=dark" />
 
 </div>
-
----
 ### GitHub Activity
 
 <div align="center">
