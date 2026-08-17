@@ -17,25 +17,48 @@
 [![Personal Website](https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jassercherif.github.io/MyPortfolio/)
 
 ---
+
 ### Tech Stack
 
 <div align="center">
 
-**AI & ML**
+**AI Engineering · Agentic AI · RAG**
 
-[![AI Skills](https://skillicons.dev/icons?i=ai,pytorch,tensorflow,python,fastapi&theme=dark)](https://skillicons.dev)
+[![AI Skills](https://skillicons.dev/icons?i=python,fastapi&theme=dark)](https://skillicons.dev)
 
-**Frontend & Backend**
+`LangChain` · `LangGraph` · `RAG` · `GraphRAG` · `Hybrid RAG` · `LLMs` · `MCP` · `OpenAI` · `Pydantic`
 
-[![Web Skills](https://skillicons.dev/icons?i=react,spring,java,html,nextjs,py,typescript,nodejs,tailwind,postman&theme=dark)](https://skillicons.dev)
+<br/>
 
-**Data & Infrastructure**
+**Frontend · Backend**
 
-[![Infra Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,vercel,linux&theme=dark)](https://skillicons.dev)
+[![Web Skills](https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,nodejs&theme=dark)](https://skillicons.dev)
 
-**DevOps**
+`REST APIs` · `React` · `Vite` · `Agentic Workflows` · `Microservices`
 
-[![Infra Skills](https://skillicons.dev/icons?i=docker,git,jenkins,bitbucket,kubernetes,anaconda&theme=dark)](https://skillicons.dev)
+<br/>
+
+**Data · Knowledge Graph · Vector Search**
+
+[![Data Skills](https://skillicons.dev/icons?i=postgres,neo4j,mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+
+`pgvector` · `Weaviate` · `Vector Search` · `Knowledge Graphs` · `Hybrid Retrieval`
+
+<br/>
+
+**Salesforce · Enterprise AI**
+
+[![Salesforce](https://skillicons.dev/icons?i=salesforce&theme=dark)](https://skillicons.dev)
+
+`Apex` · `Salesforce Metadata API` · `Agentforce` · `Salesforce MCP`
+
+<br/>
+
+**Cloud · DevOps · Engineering**
+
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,linux,azure&theme=dark)](https://skillicons.dev)
+
+`Docker Compose` · `CI/CD` · `REST` · `GitHub Actions`
 
 </div>
 
