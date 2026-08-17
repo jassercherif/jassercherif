@@ -69,8 +69,6 @@
 
 ### GitHub Activity
 
-### GitHub Activity
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SuperiormonLBJ)](https://git.io/streak-stats)
